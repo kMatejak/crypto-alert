@@ -10,7 +10,7 @@ Price alert sender for Bitcoin (BTC)
 ## General info  
 Pet project where I use Go, Kubernetes, Redis. Three microservices combined into one mechanism. My main inspirations are:  
 1) recruitment process in one of the companies in Warsaw (Poland) that uses a similar tech stack,  
-2) conversation with a friend, senior developer,  
+2) conversation about networking and APIs with my friend, senior developer,  
 3) [**this**](https://www.youtube.com/watch?v=uS1KcjkWdoU) scene!  
   
 ## Technologies  
